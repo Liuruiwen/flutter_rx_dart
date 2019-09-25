@@ -8,7 +8,7 @@ import 'PageWidget3.dart';
  * Created by Amuser
  * Date:2019/9/24.
  * Desc:首页
- * rxDart :https://juejin.im/post/5bcea438e51d4536c65d2232
+ *
  */
  class MainPage extends StatefulWidget {
   @override
